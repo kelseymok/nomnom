@@ -1,5 +1,4 @@
 # Flammkuchen
-From: https://www.chefkoch.de/rezepte/1112251217261411/Einfacher-Flammkuchen.html
 
 Makes 1 Flammkuchen
 
@@ -23,3 +22,6 @@ Makes 1 Flammkuchen
 4. Preheat oven to 200C
 5. Roll out dough and then spread 200g Schmad on top with a spoon or spatula. Add red onions and leeks. Space out cherry tomatoes cut side up.
 6. Bake at 200C for 25-30 min
+
+## References
+* [Chefkoch](https://www.chefkoch.de/rezepte/1112251217261411/Einfacher-Flammkuchen.html)
