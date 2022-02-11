@@ -82,10 +82,10 @@ Prepare the **Salad**:
 6. Season with salt, pepper, and olive oil.
 7. Set aside and let rest
 
-8. Prepare the **Halloumi**:
-9. Slice Halloumi into 1 cm slices
-10. In a heated non-stick skillet (med), add a little oil. Once hot, place sliced halloumi.
-11. Flip halloumi once one side is golden brown.
+Prepare the **Halloumi**:
+1. Slice Halloumi into 1 cm slices
+2. In a heated non-stick skillet (med), add a little oil. Once hot, place sliced halloumi.
+3. Flip halloumi once one side is golden brown.
 
 Prepare the **Pita Bread**:
 1. Separate the dough into 4 parts
