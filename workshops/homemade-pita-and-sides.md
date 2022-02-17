@@ -20,7 +20,7 @@ Serves 2 people.
 ### Homemade Hummus
 * 1 can (~425g) chickpeas, rinsed and drained (or White Beans)
 * 1/2 teaspoon baking soda (if using chickpeas)
-* 3/4 cup lemon juice (from 1 ½ to 2 lemons), more to taste
+* 1/4 cup lemon juice (from 1 ½ to 2 lemons), more to taste
 * 1 medium-to-large clove garlic, roughly chopped
 * 1/2 teaspoon fine sea salt, to taste
 * 1/2 cup tahini
@@ -49,7 +49,7 @@ Start the levain for the **Pita Bread**:
 Prepare chickpeas and garlic for **Hummus**:
 1. Fill a sauce pan with hummus (1 can), water to cover, and baking soda (1/2 tsp)
 2. Let boil for 20 minutes (set a timer!)
-3. Finely slice a garlic clove and place at the bottom of a food processor and add lemon juice (3/4 cup, 177ml) and salt (1/2 tsp). Let rest.
+3. Finely slice a garlic clove and place at the bottom of a food processor and add lemon juice (1/4 cup, 80ml) and salt (1/2 tsp). Let rest.
 
 Prepare the **Pickled Onions**:
 1. Peel an onion and cut lengthwise
