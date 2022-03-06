@@ -12,7 +12,7 @@ Buy 4 bananas and let ripen until spots appear. Then put in freezer until the da
 * 150g sugar
 * 2 eggs
 * 80g plain yogurt or greek yogurt or sour cream
-* 2 cups mashed bananas
+* 4 bananas from the [preparation step](#preparation) (~2 cups)
 * 1 tsp pure vanilla extract
 * optional: 1 tsp cocoa powder
 * optional: handful of chocolate chunks
