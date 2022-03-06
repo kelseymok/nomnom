@@ -69,9 +69,10 @@ Prepare the **Hummus**:
 1. Add tahini (1/2 cup) to food processor (that has the garic and lemon juice in it)
 2. Blend until thick and creamy
 3. Drizzle in 2-4 tbsp cold water until super smooth and creamy
-4. Add cumin (1/2 tsp) and other spices as desired (e.g. chili powder, paprika)
-5. Drizzle in olive oil (2 tbsp)
-6. Pour into bowl or jar and set aside
+4. Add chickpeas
+5. Add cumin (1/2 tsp) and other spices as desired (e.g. chili powder, paprika) 
+6. Drizzle in olive oil (2 tbsp)
+7. Pour into bowl or jar and set aside
 
 Prepare the **Salad**:
 1. Chop cherry tomatoes into quarters and place in a bowl
