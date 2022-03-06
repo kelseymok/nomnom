@@ -9,7 +9,7 @@ Buy 4 bananas and let ripen until spots appear. Then put in freezer until the da
 * 1/4 tsp salt
 * 1/2 tsp ground cinnamon
 * 115g unsalted butter
-* 150g sugar
+* 75g sugar
 * 2 eggs
 * 80g plain yogurt or greek yogurt or sour cream
 * 4 bananas from the [preparation step](#preparation) (~2 cups)
