@@ -33,4 +33,10 @@ Buy 4 bananas and let ripen until spots appear. Then put in freezer until the da
 7. Slowly beat in the dry ingredients
 8. Fold in nuts or chocolate chunks (if using)
 9. Pour into greased loaf pan
-10. Bake for 1 hour or until a skewer comes out clean
+10. Bake for 1 hour or until a skewer / knife comes out clean when pushed through the center
+
+## Resources
+* https://sallysbakingaddiction.com/best-banana-bread-recipe/
+
+## Variations
+* [Vegan Banana Bread](https://lovingitvegan.com/vegan-banana-bread/)
