@@ -1,7 +1,7 @@
 # Banana Bread
 
 ## Preparation
-Buy 4 bananas and let ripen until spots appear. Then put in freezer until the day of baking (take it a few hours before using).
+Buy 4 bananas and let ripen until spots appear. Then put in freezer until the day of baking (take it out a few hours before using).
 
 ## Ingredients
 * 250g all-purpose flour
