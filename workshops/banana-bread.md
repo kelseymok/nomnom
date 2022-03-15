@@ -4,7 +4,7 @@
 Buy 4 bananas and let ripen until spots appear. Then put in freezer until the day of baking (take it out a few hours before using).
 
 ## Ingredients
-* 250g all-purpose flour
+* 250g German 405 Flour (550 will also work in a pinch)
 * 1 tsp baking soda
 * 1/4 tsp salt
 * 1/2 tsp ground cinnamon
