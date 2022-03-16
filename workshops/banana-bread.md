@@ -1,15 +1,15 @@
 # Banana Bread
 
 ## Preparation
-Buy 4 bananas and let ripen until spots appear. Then put in freezer until the day of baking (take it out a few hours before using).
+Buy 4 bananas and let ripen until spots appear. Then put in freezer until the day of baking (take it out a few hours before using). Freezing the bananas helps the cell walls break down so that the bananas are more easily turned to mush when we start baking.
 
 ## Ingredients
 * 250g German 405 Flour (550 will also work in a pinch)
-* 1 tsp baking soda
+* 1 tsp baking soda (Kaiser Natron. NOT Baking Powder)
 * 1/4 tsp salt
 * 1/2 tsp ground cinnamon
 * 115g unsalted butter
-* 75g sugar
+* 75g sugar (original recipe called for 150g, but always cut the sugar in half. Feel free to use something in between 75-150g if you prefer a sweeter result)
 * 2 eggs
 * 80g plain yogurt or greek yogurt or sour cream
 * 4 bananas from the [preparation step](#preparation) (~2 cups)
