@@ -2,6 +2,8 @@
 
 
 ## Kerniges Knäckebrot
+A healthy medium to transport other delicious things.
+
 | 8 Knäckebrot | 16 Knäckebrot* | Ingredient |
 | --- | --- | --- | 
 | 60 g | 120 g | Dinkelmehl / Spelt Flour |
@@ -14,6 +16,8 @@
 *this requires two baking pans
 
 ## Curry Date Dip
+Described as "crack-dip" in my friend-circle. It's addictive and you won't have any leftovers.
+
 * 150 g pitted dates
 * 2 garlic cloves
 * 300 g plain/natur Frischkäse 
@@ -23,7 +27,9 @@
 * pinch of ground pepper
 
 ## The rest of the Brotzeit
+Get creative! Some ideas below. You'll want something to dip in the Curry Date Dip.
+
 * Assorted vegetables (carrots, celery, radishes, tomatoes, etc.)
 * Fruit (e.g. grapes, apples, pears, etc.)
 * Nuts (e.g. walnuts, almonds, etc.)
-* Cured meats (e.g. schinken, salami, Jagerwurst, etc.)
+* Cured meats (e.g. Schinken, salami, Jagerwurst, etc.)
