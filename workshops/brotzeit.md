@@ -8,9 +8,9 @@ A healthy medium to transport other delicious things.
 | 60 g | 120 g | Dinkelmehl / Spelt Flour |
 | 60 g | 120 g | Haferflocken (small) |
 | 100 g | 200 g | Assorted seeds (e.g. chia, sunflower, hemp, linseed, sesame, pumpkin, whatever you have in your pantry) |
-| 1/4 tsp (1.5 g) | 1/2 tsp (3 g) | Salt |
-| 1 tbsp (14 g) | 2 tbsp (28 g) | Olive Oil |
-| 250 ml | 500 ml | Water |
+| 1/2 tsp (3 g) | 1 tsp (6 g) | Salt |
+| 2 tbsp (28 g) | 4 tbsp (56 g) | Olive Oil |
+| 225 ml | 450 ml | Water |
 
 *this requires two baking trays or baking in batches
 
