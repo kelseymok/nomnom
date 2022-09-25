@@ -25,13 +25,15 @@ Described as "crack-dip" in my friend-circle. It's addictive and you won't have 
 * 1/2 tsp salt
 * pinch of ground pepper
 
-## Healthiest Fruit Crumble
-* 250 g assorted fruit (frozen/fresh)
-* 50 g ground almonds (pre-ground or freshly ground in a food processor - found in the baking aisle)
-* 30 g coconut flakes (found in the baking aisle)
-* 20 g assorted seeds (e.g. chia, sesame, linseeds, etc.)
-* 1 tbsp honey
-* 2 tbsp coconut oil
+## Sun Dried Tomato Pesto
+* 1 cup sun-dried tomatoes
+* 50 g pinenuts
+* 2-3 garlic cloves
+* 2 tablespoons fresh herbs (e.g. thyme, basil)
+* 1/2 tsp salt
+* 80 g parmesan cheese
+* pinch of ground pepper
+* 125 ml olive oil
 
 ## The rest of the Brotzeit
 Get creative! Some ideas below. You'll want something to dip in the Curry Date Dip. What's great about Brotzeit is that everyone can pick and choose according to their tastebuds and dietary restrictions.
@@ -46,4 +48,3 @@ Get creative! Some ideas below. You'll want something to dip in the Curry Date D
 * Food processor (or some awesome knife skills)
 * Baking tray
 * Bowl + Spatula (or spoon for spreading)
-* Small baking dish
