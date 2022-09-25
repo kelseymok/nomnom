@@ -26,6 +26,8 @@ Described as "crack-dip" in my friend-circle. It's addictive and you won't have 
 * pinch of ground pepper
 
 ## Sun Dried Tomato Pesto
+This is a favourite in my house. It's also great on pasta!
+
 * 1 cup sun-dried tomatoes
 * 50 g pinenuts
 * 2-3 garlic cloves

@@ -44,6 +44,7 @@ Described as "crack-dip" in my friend-circle. It's addictive and you won't have 
 4. Add Frischkäse and Schmand. Process.
 
 ## Sun Dried Tomato Pesto
+This is a favourite in my house. It's also great on pasta!
 
 ### Ingredients
 * 1 cup sun-dried tomatoes
