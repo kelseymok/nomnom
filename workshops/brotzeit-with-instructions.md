@@ -15,7 +15,7 @@ Source: [Chefkoch](https://www.chefkoch.de/rezepte/602621160035653/Kerniges-Knae
 | 1 tbsp (14 g) | 2 tbsp (28 g) | Olive Oil |
 | 250 ml | 500 ml | Water |
 
-* this requires two baking pans
+*this requires two baking pans
 
 ### Instructions
 1. Preheat oven to 170C
@@ -28,9 +28,9 @@ Source: [Chefkoch](https://www.chefkoch.de/rezepte/602621160035653/Kerniges-Knae
 ## Curry Date Dip
 
 ### Ingredients
-* 150 g pitted Dates
-* 2 Garlic cloves
-* 300 g Plain/Natur Frischkäse 
+* 150 g pitted dates
+* 2 garlic cloves
+* 300 g plain/natur Frischkäse
 * 200 g Schmand
 * 2 1/2 tsp curry powder
 * 1/2 tsp salt

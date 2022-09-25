@@ -14,9 +14,9 @@
 *this requires two baking pans
 
 ## Curry Date Dip
-* 150 g pitted Dates
-* 2 Garlic cloves
-* 300 g Plain/Natur Frischkäse 
+* 150 g pitted dates
+* 2 garlic cloves
+* 300 g plain/natur Frischkäse 
 * 200 g Schmand
 * 2 1/2 tsp curry powder
 * 1/2 tsp salt
