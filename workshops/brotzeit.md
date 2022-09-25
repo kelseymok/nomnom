@@ -1,5 +1,4 @@
-# Brotzeit
-
+# Healthy Brotzeit
 
 ## Kerniges Knäckebrot
 A healthy medium to transport other delicious things.
@@ -26,10 +25,25 @@ Described as "crack-dip" in my friend-circle. It's addictive and you won't have 
 * 1/2 tsp salt
 * pinch of ground pepper
 
-## The rest of the Brotzeit
-Get creative! Some ideas below. You'll want something to dip in the Curry Date Dip.
+## Healthiest Fruit Crumble
+* 250 g assorted fruit (frozen/fresh)
+* 50 g ground almonds (pre-ground or freshly ground in a food processor - found in the baking aisle)
+* 30 g coconut flakes (found in the baking aisle)
+* 20 g assorted seeds (e.g. chia, sesame, linseeds, etc.)
+* 1 tbsp honey
+* 2 tbsp coconut oil
 
-* Assorted vegetables (carrots, celery, radishes, tomatoes, etc.)
+## The rest of the Brotzeit
+Get creative! Some ideas below. You'll want something to dip in the Curry Date Dip. What's great about Brotzeit is that everyone can pick and choose according to their tastebuds and dietary restrictions.
+
+* Assorted vegetables (carrots, celery, radishes, tomatoes, cucumber, onions, etc.)
 * Fruit (e.g. grapes, apples, pears, etc.)
 * Nuts (e.g. walnuts, almonds, etc.)
 * Cured meats (e.g. Schinken, salami, Jagerwurst, etc.)
+* Fish (e.g. smoked salmon, tinned tuna)
+
+## Equipment
+* Food processor (or some awesome knife skills)
+* Baking tray
+* Bowl + Spatula (or spoon for spreading)
+* Small baking dish
