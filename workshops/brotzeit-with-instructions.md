@@ -2,7 +2,7 @@
 
 
 ## Kerniges Knäckebrot
-Source: [Chefkoch](https://www.chefkoch.de/rezepte/602621160035653/Kerniges-Knaeckebrot.html)
+A healthy medium to transport other delicious things.
 
 ### Ingredients
 
@@ -26,6 +26,7 @@ Source: [Chefkoch](https://www.chefkoch.de/rezepte/602621160035653/Kerniges-Knae
 6. Bake for another 45 minutes
 
 ## Curry Date Dip
+Described as "crack-dip" in my friend-circle. It's addictive and you won't have any leftovers.
 
 ### Ingredients
 * 150 g pitted dates
@@ -42,8 +43,35 @@ Source: [Chefkoch](https://www.chefkoch.de/rezepte/602621160035653/Kerniges-Knae
 3. Add curry powder, salt, and pepper. Process.
 4. Add Frischkäse and Schmand. Process.
 
+## Sun Dried Tomato Pesto
+
+### Ingredients
+* 1 cup sun-dried tomatoes
+* 50 g pine nuts
+* 2-3 garlic cloves
+* 2 tablespoons fresh herbs (e.g. thyme, basil)
+* 1/2 tsp salt
+* 80 g Parmesan cheese
+* 125 ml olive oil
+
+### Instructions
+1. Soak the sun dried tomatoes in hot water for 20 minutes
+2. Dry roast the pinenuts in a small frying pan (no oil!)
+3. Finely the Parmesan cheese
+4. Place the garlic cloves in the food processor and process.
+5. Add pine nuts, Parmesan cheese, drained sun-dried tomatoes, salt, and fresh herbs. Process.
+6. Drizzle in olive oil until the desired consistency is reached.
+
 ## The rest of the Brotzeit
-* Assorted vegetables (carrots, celery, radishes, tomatoes, etc.)
+Get creative! Some ideas below. You'll want something to dip in the Curry Date Dip. What's great about Brotzeit is that everyone can pick and choose according to their tastebuds and dietary restrictions.
+
+* Assorted vegetables (carrots, celery, radishes, tomatoes, cucumber, onions, etc.)
 * Fruit (e.g. grapes, apples, pears, etc.)
 * Nuts (e.g. walnuts, almonds, etc.)
-* Cured meats (e.g. schinken, salami, Jagerwurst, etc.)
+* Cured meats (e.g. Schinken, salami, Jagerwurst, etc.)
+* Fish (e.g. smoked salmon, tinned tuna)
+
+## Equipment
+* Food processor (or some awesome knife skills)
+* Baking tray
+* Bowl + Spatula (or spoon for spreading)
