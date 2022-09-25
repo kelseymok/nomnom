@@ -1,4 +1,4 @@
-# Healthy Brotzeit
+# Well-being Brotzeit
 
 ## Kerniges Knäckebrot
 A healthy medium to transport other delicious things.

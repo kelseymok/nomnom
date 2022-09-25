@@ -4,4 +4,4 @@ I run workshops for colleagues and friends.
 * [NY Style Cheesecake](./workshops/ny-cheesecake.md)
 * [Flammkuchen](./workshops/flammkuchen.md)
 * [Banana Bread](./workshops/banana-bread.md)
-* [Brotzeit with Knäckebrot and a Curry-Date Dip](./workshops/brotzeit.md)
+* [Well-being Brotzeit](./workshops/brotzeit.md)
