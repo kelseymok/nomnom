@@ -73,6 +73,7 @@ Get creative! Some ideas below. You'll want something to dip in the Curry Date D
 * Fish (e.g. smoked salmon, tinned tuna, tuna salad)
 
 ## Equipment
-* Food processor (or some awesome knife skills)
+* Food processor
+* Scale
 * Baking tray (the one that comes with your oven is perfect)
 * Bowl + Spatula (or spoon for spreading)
