@@ -12,7 +12,7 @@ A healthy medium to transport other delicious things.
 | 1 tbsp (14 g) | 2 tbsp (28 g) | Olive Oil |
 | 250 ml | 500 ml | Water |
 
-*this requires two baking pans
+*this requires two baking trays or baking in batches
 
 ## Curry Date Dip
 Described as "crack-dip" in my friend-circle. It's addictive and you won't have any leftovers.
@@ -38,11 +38,11 @@ Described as "crack-dip" in my friend-circle. It's addictive and you won't have 
 ## The rest of the Brotzeit
 Get creative! Some ideas below. You'll want something to dip in the Curry Date Dip. What's great about Brotzeit is that everyone can pick and choose according to their tastebuds and dietary restrictions.
 
-* Assorted vegetables (carrots, celery, radishes, tomatoes, cucumber, onions, etc.)
+* Assorted vegetables (carrots, celery, radishes, tomatoes, cucumber, sliced onions, etc.)
 * Fruit (e.g. grapes, apples, pears, etc.)
 * Nuts (e.g. walnuts, almonds, etc.)
 * Cured meats (e.g. Schinken, salami, Jagerwurst, etc.)
-* Fish (e.g. smoked salmon, tinned tuna)
+* Fish (e.g. smoked salmon, tinned tuna, tuna salad)
 
 ## Equipment
 * Food processor (or some awesome knife skills)
