@@ -2,9 +2,6 @@
 
 
 ## Kerniges Knäckebrot
-
-### Ingredients
-
 | 8 Knäckebrot | 16 Knäckebrot* | Ingredient |
 | --- | --- | --- | 
 | 60 g | 120 g | Dinkelmehl / Spelt Flour |
@@ -14,11 +11,9 @@
 | 1 tbsp (14 g) | 2 tbsp (28 g) | Olive Oil |
 | 250 ml | 500 ml | Water |
 
-* this requires two baking pans
+*this requires two baking pans
 
 ## Curry Date Dip
-
-### Ingredients
 * 150 g pitted Dates
 * 2 Garlic cloves
 * 300 g Plain/Natur Frischkäse 
