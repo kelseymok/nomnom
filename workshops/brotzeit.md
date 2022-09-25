@@ -29,11 +29,11 @@ Described as "crack-dip" in my friend-circle. It's addictive and you won't have 
 This is a favourite in my house. It's also great on pasta!
 
 * 1 cup sun-dried tomatoes
-* 50 g pinenuts
+* 50 g pine nuts
 * 2-3 garlic cloves
 * 2 tablespoons fresh herbs (e.g. thyme, basil)
 * 1/2 tsp salt
-* 80 g parmesan cheese
+* 80 g Parmesan cheese
 * pinch of ground pepper
 * 125 ml olive oil
 
