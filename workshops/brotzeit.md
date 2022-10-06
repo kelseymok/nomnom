@@ -1,7 +1,10 @@
-# Well-being Brotzeit
+# Brotzeit
+
 
 ## Kerniges Knäckebrot
 A healthy medium to transport other delicious things.
+
+### Ingredients
 
 | 8 Knäckebrot | 16 Knäckebrot* | Ingredient |
 | --- | --- | --- | 
@@ -14,28 +17,51 @@ A healthy medium to transport other delicious things.
 
 *this requires two baking trays or baking in batches
 
+### Instructions
+1. Preheat oven to 170C
+2. Put all ingredients into a bowl and mix
+3. Spread dough on baking paper with a spatula
+4. Put in oven
+5. After 15 minutes, cut using a pizza cutter
+6. Bake for another 45 minutes
+
 ## Curry Date Dip
 Described as "crack-dip" in my friend-circle. It's addictive and you won't have any leftovers.
 
+### Ingredients
 * 150 g pitted dates
 * 2 garlic cloves
-* 300 g plain/natur Frischkäse 
+* 300 g plain/natur Frischkäse
 * 200 g Schmand
 * 2 1/2 tsp curry powder
 * 1/2 tsp salt
 * pinch of ground pepper
 
+### Instructions
+1. Grind the dates in a food processor (or chop finely by hand)
+2. Add the garlic cloves to the food processor (or use a fine grater/garlic press)
+3. Add curry powder, salt, and pepper. Process.
+4. Add Frischkäse and Schmand. Process.
+
 ## Sun Dried Tomato Pesto
 This is a favourite in my house. It's also great on pasta!
 
+### Ingredients
 * 1 cup sun-dried tomatoes
 * 50 g pine nuts
 * 2-3 garlic cloves
 * 2 tablespoons fresh herbs (e.g. thyme, basil)
 * 1/2 tsp salt
 * 80 g Parmesan cheese
-* pinch of ground pepper
 * 125 ml olive oil
+
+### Instructions
+1. Soak the sun dried tomatoes in hot water for 20 minutes
+2. Dry roast the pinenuts in a small frying pan (no oil!)
+3. Finely the Parmesan cheese
+4. Place the garlic cloves in the food processor and process.
+5. Add pine nuts, Parmesan cheese, drained sun-dried tomatoes, salt, and fresh herbs. Process.
+6. Drizzle in olive oil until the desired consistency is reached.
 
 ## The rest of the Brotzeit
 Get creative! Some ideas below. You'll want something to dip in the Curry Date Dip. What's great about Brotzeit is that everyone can pick and choose according to their tastebuds and dietary restrictions.
