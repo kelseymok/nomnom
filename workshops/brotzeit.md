@@ -33,7 +33,7 @@ Described as "crack-dip" in my friend-circle. It's addictive and you won't have 
 * 2 garlic cloves
 * 300 g plain/natur Frischkäse
 * 200 g Schmand
-* 2 1/2 tsp curry powder
+* 4 1/2 tsp curry powder
 * 1/2 tsp salt
 * pinch of ground pepper
 
