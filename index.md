@@ -5,3 +5,6 @@ I run workshops for colleagues and friends.
 * [Flammkuchen](./workshops/flammkuchen.md)
 * [Banana Bread](./workshops/banana-bread.md)
 * [Well-being Brotzeit](./workshops/brotzeit.md)
+
+My collection of Busy Mom recipes:
+* [Greek Pasta Casserole](./busy-mom/greek-pasta-casserole.md)
