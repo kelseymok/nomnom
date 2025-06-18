@@ -18,7 +18,7 @@ Source: https://www.familienkost.de/rezept_kritharaki_auflauf_feta.html
 * 1 Tbsp Olivenöl
 
 ## Prep (while the kid sleeps)
-1. **Veg**: Halve the small tomatoes, slice the olives, peel the garlic, mince the onion, and slice the Paprika in thin rings. Add to bowl, mix, and set aside.
+1. **Veg**: Halve the small tomatoes, slice the olives, peel the garlic, mince the onion, and slice the Paprika in thin rings. Add to bowl, mix, and set aside. **HINT:** No time ⏲️?? Use a big bag of frozen veg ❤️
 2. **Casserole Dish**: Oil the bottom of the casserole dish
 3. **Liquid**: Mix the broth with chopped tomatoes, creme fraiche, paprika (powder), rosemary, and pressed garlic. Put in a jar, put in fridge if cooking much later.
 4. **Protein**: fry the ground beef in oil, salt, pepper and whatever spices you like. If you're using the vegan variety, skip the cooking step! Fridge it.
