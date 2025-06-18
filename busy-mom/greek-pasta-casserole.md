@@ -2,7 +2,7 @@
 Source: https://www.familienkost.de/rezept_kritharaki_auflauf_feta.html
 
 ## Ingredients
-* 250g your kid's favourite pasta (mine's is Maccaroni or Fussili)
+* 250g your kid's favourite pasta (e.g. Maccaroni or Fussili)
 * 180g ground beef (or vegan)
 * 150g Feta or Hirtenkäse
 * 100g Small tomatoes
