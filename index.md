@@ -8,3 +8,4 @@ I run workshops for colleagues and friends.
 
 My collection of Busy Mom recipes:
 * [Greek Pasta Casserole](./busy-mom/greek-pasta-casserole.md)
+* [Instant Noodle Casserole](./busy-mom/instant-noodle-casserole.md)
